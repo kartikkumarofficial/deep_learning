@@ -1,3 +1,6 @@
 datasets/large/
 .ipynb_checkpoints/
 __pycache__/
+.venv/
+all_value_trials/
+all_value_trials1/
